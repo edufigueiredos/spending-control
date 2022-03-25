@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "spending-control-app": "apps/spending-control-app",
+    "spending-control-app-e2e": "apps/spending-control-app-e2e"
+  }
+}
